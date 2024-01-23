@@ -5,6 +5,6 @@ The poster provides a refined version of the thesis. I also did some additional 
 
 Noteworthy is the fact that alpha peak power is substantially lower for illusory stimuli - see figure 7a in the poster. That said, a follow-up experiment should consider presenting the stimuli in a more classical trial structure: 500ms delay, present stimulus, wait for 1 second to allow ERP to develop. Then we could look into the alpha band without contamination from the frequency-tagged ERPs.
 
-Otherwise, the EEG experiment was a success! We show that illusory colour evokes a 'spreading-out' cortical response during illusory 'filling-in'.
+Otherwise, the EEG experiment was a success! We show that illusory colour evokes a cortical 'spreading-out' response during illusory 'filling-in'.
 
 
