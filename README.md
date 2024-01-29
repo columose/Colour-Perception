@@ -1,5 +1,5 @@
 # Colour-Perception
-I'll be adding some contents to this repository related to my Master's thesis project, where we conducted psychophysics and EEG experiments to investigate the contribution of colour-opponent mechanisms to surface perception.
+I'll be adding some content to this repository related to my Master's thesis project, where we conducted psychophysics and EEG experiments to investigate the contribution of colour-opponent mechanisms to surface perception.
 
 The poster provides a refined version of the thesis. I also did some additional analyses and plotted the power spectrum from 1 to 22Hz. It was unexpected, but we found a clear peak at 10Hz, which couldn't have been a harmonic to our frequency tagging. This peak possibly (probably in my opinion) reflects the average 'individual alpha frequency' of our subjects.
 
