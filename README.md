@@ -5,7 +5,6 @@ The [poster](Thesis/Colour_perception_poster.pdf) provides a refined version of 
 
 Noteworthy is the fact that alpha peak power is substantially lower for illusory stimuli (figure 7a) - consistent with the attentional demands of perceptual filling-in. That said, a follow-up experiment should consider presenting the stimuli in a more classical trial structure: 500ms delay, present stimulus, wait for 1 second to allow the ERP to develop. Then we could look into the alpha band without contamination from the frequency-tagged ERPs.
 
-![poster](https://github.com/columose/Colour-Perception/blob/5a704e92cff7f7f5d9ec6d2d6f1d7523d27299f1/Thesis/Colour_perception_poster.pdf)
 
 Otherwise, the EEG experiment was a success! We show that illusory colour evokes a cortical 'spreading-out' response during 'filling-in'.
 
